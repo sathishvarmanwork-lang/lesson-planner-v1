@@ -1,2 +1,16 @@
 main {
 }
+.error {
+  background: #fee;
+  color: #c00;
+  padding: 1rem;
+  border-radius: 4px;
+  margin: 1rem 0;
+  font-weight: 600;
+}
+
+.lesson-content {
+  white-space: pre-wrap;
+  line-height: 1.8;
+  font-family: system-ui;
+}
